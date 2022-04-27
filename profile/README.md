@@ -1,12 +1,22 @@
-## Hi there 👋
+# Garoa Site
+Somo uma empresa de inovação que trabalha com previsões séries temporais, análise e visualização de dados e o objetivo de transformar as cidades em "smart cities".
 
-<!--
+### Links
 
-**Here are some ideas to get you started:**
+- Nosso Site: [www.garoa.ufpa.br](https://projetogaroaufpa.wixsite.com/projeto-garoa-ufpa)
+![desktop screenshot](https://github.com/garoa-startup/garoa-site/blob/main/site.png)
+---
+- Encontre-nos no Instagram: [projetogaroaufpa](https://www.instagram.com/projetogaroaufpa/) 
+![desktop screenshot](https://github.com/garoa-startup/garoa-site/blob/main/instagram.png)
+---
+- Encontre-nos no Twitter: [@ProjetoGaroa](https://twitter.com/ProjetoGaroa)
+![desktop screenshot](https://github.com/garoa-startup/garoa-site/blob/main/twitter.png)
+---
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Desenvolvedores
+
+- **Augusto**
+- **Brendo**
+- **Eduardo**
+- **Luis**
+-  **Prince**
